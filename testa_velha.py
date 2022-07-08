@@ -2,9 +2,9 @@ import velha
 
 # No começo do teste de cada caso, os outros testes foram comentados para uma melhor leitura do problema propostp. 
 
-l1 = [2,2,2]
-l2 = [1,2,2]
-l3 = [2,2,1]
+l1 = [2,1,2]
+l2 = [1,1,2]
+l3 = [2,0,1]
 
 def test_Xganhou():
     assert 1 == velha.velha(l1,l2,l3)

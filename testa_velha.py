@@ -1,7 +1,7 @@
 import velha
 
 l1 = [1,2,2]
-l2 = [2,1,1]
+l2 = [1,1,2]
 l3 = [1,2,1]
 
 def test_Xganhou():
